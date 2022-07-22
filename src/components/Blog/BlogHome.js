@@ -15,7 +15,7 @@ const BlogHome = () => {
       name: "By Jasmin Smith",
       subTitle: "How to Shop Mindfully",
       qrCode: "/images/qrcode.png",
-      cover: "/Images/blog5.jpg",
+      cover: "/Images/blog6.jpg",
     },
   ]
   return (

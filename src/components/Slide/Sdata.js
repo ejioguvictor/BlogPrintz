@@ -1,24 +1,24 @@
 const Sdata = [
   {
     id: 1,
-    cover: "/Images/slide-1.jpg",
-    category: "lifestyle",
-    title: "What are the best countries to visit?",
-    desc: "In this post, we are going to highlight the many benefits of blogging for business and how you can get started with",
+    cover: "/Images/card04.jpeg",
+    category: "Politics",
+    title: "You will not labour in vain ...",
+    desc: "As next year's election draws near, its our collective responsibility to make sure that we are ready to vote, vote honestly with our conscience, and vote for a Nigeria we could all be proud of.",
   },
   {
     id: 2,
-    cover: "/Images/slide-2.jpg",
-    category: "lifestyle",
-    title: "What are the best countries to visit?",
-    desc: "In this post, we are going to highlight the many benefits of blogging for business and how you can get started with",
+    cover: "/Images/slide02.jpeg",
+    category: "Entertainment",
+    title: "The Gray Man is finally out!",
+    desc: "The awaited blockburster action movie, The Gray Man, is finally out in cinemas",
   },
   {
     id: 3,
     cover: "/Images/slide-3.jpg",
     category: "lifestyle",
-    title: "What are the best countries to visit?",
-    desc: "In this post, we are going to highlight the many benefits of blogging for business and how you can get started with",
+    title: "Most beautiful places to spend your honeymoon?",
+    desc: "In this post, we are going to highlight some of the most beautiful places loved ones can spend their honeymoon",
   },
 ]
 

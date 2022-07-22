@@ -7,15 +7,15 @@ const Cdata = [
   },
   {
     id: 2,
-    cover: "/Images/card-2.jpg",
-    category: "lifestyle",
-    title: "How much will it Cost to Travel?",
+    cover: "/Images/card02.jpeg",
+    category: "Politics",
+    title: "Peter Obi - the man to rescue Nigeria",
   },
   {
     id: 3,
-    cover: "./Images/card-3.jpg",
-    category: "lifestyle",
-    title: "Where can People travel right now?",
+    cover: "./Images/card03.jpeg",
+    category: "Activist",
+    title: "One-on-One with Aisha Yusufu...a patriotic activist ",
   },
   {
     id: 4,
@@ -31,9 +31,9 @@ const Cdata = [
   },
   {
     id: 6,
-    cover: "./Images/card-6.jpg",
-    category: "lifestyle",
-    title: "What do you Gain from Traveling?",
+    cover: "./Images/card01.jpeg",
+    category: "Sports",
+    title: "Haaland - the next superstar signing of Man City",
   },
 ]
 
